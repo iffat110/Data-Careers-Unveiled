@@ -8,7 +8,7 @@ Source: (https://www.kaggle.com/datasets/hummaamqaasim/jobs-in-data?select=jobs_
 
 Columns: work_year, job_title, job_category, salary_currency, salary, salary_in_usd, employee_residence, experience_level, employment_type, work_setting, company_location, company_size
 
-# Objectives
+# Analysis
 Descriptive Analysis: Understand the basic statistics of salary distributions.
 
 Temporal Trends: Explore how salaries have evolved over the years.
